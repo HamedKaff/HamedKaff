@@ -28,5 +28,3 @@ Creative Developer, Designer & Teacher
 <a href="http://www.github.com/HamedKaff"><img src="https://github-readme-stats.vercel.app/api?username=HamedKaff&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&show_icons=true" alt="HamedKaff's GitHub stats" /></a>
 
 <a href="http://www.github.com/HamedKaff"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HamedKaff&stroke=ffffff&background=181824&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/HamedKaff" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedKaff&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
