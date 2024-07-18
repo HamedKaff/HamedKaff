@@ -1,13 +1,10 @@
 Hi 👋 My name is Hamed
 ======================
 
-Creative Developer, Designer & Teacher
+Creative Developer & Designer 
 --------------------------------------
 
-* 🌍  I'm based in Saudi Arabia
-* ✉️  You can contact me at [hamed.alkaff9@gmail.com](mailto:hamed.alkaff9@gmail.com)
-* 🚀  I'm currently working on [Axesion AI](https://axesion.vercel.app/)
-* 🧠  I'm learning TypeScript, React Native, 3D Design
+
 
 ### Skills
 
